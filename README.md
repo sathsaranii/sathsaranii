@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm Sathsarani from Sri Lanka. Currently I'm an undergraduate in the Department of Computer Science and Engineering at University of Moratuwa.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sathsaranii)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathsaranii)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sathsaranii&show_icons=true)  
